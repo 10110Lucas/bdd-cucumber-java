@@ -15,5 +15,4 @@ import org.junit.runner.RunWith;
     }
     ,tags="@SmokeTest2"
 )
-public class TestRunner {
-}
+public class TestRunner { }
